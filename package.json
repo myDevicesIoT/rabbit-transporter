@@ -1,0 +1,28 @@
+{
+  "name": "rabbit-transporter",
+  "version": "1.0.0",
+  "description": "A RabbitMQ Adapter for transporter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myDevicesIoT/rabbit-transporter.git"
+  },
+  "keywords": [
+    "rabbitmq",
+    "adapter",
+    "transporter"
+  ],
+  "author": "Adrian Sanchez del C. (myDevices, Inc)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/myDevicesIoT/rabbit-transporter/issues"
+  },
+  "homepage": "https://github.com/myDevicesIoT/rabbit-transporter#readme",
+  "dependencies": {
+    "amqplib": "^0.5.2",
+    "@mydevices/transporter": "^1.2.5"
+  }
+}
