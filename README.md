@@ -1,5 +1,5 @@
 ## RabbitMQ Transporter
-RabbitMQ Adapter for transporter
+RabbitMQ Adapter for [transporter](https://github.com/myDevicesIoT/transporter)
 
 ### Usage
 
