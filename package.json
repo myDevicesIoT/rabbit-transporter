@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/myDevicesIoT/rabbit-transporter#readme",
   "dependencies": {
-    "amqplib": "^0.5.2",
+    "amqplib": "^0.8.0",
     "@mydevices/transporter": "^1.2.5"
   }
 }
